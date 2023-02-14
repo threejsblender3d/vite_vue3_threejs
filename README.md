@@ -16,3 +16,7 @@ yarn dev
 # Build for production in the dist/ directory
 npm build
 ```
+
+
+# github
+https://codeup.aliyun.com/6358f98d9744e70c2b6c3441/VITE_VUE3_THREEJS_Master.git
